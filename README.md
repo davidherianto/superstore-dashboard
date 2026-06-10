@@ -26,7 +26,7 @@ During the data quality assessment, duplicate records were identified at Row_ID 
 No outlier values were found in this dataset.
 
 ## E. Dashboard
-<img width="1077" height="603" alt="projectimage02" src="https://github.com/user-attachments/assets/8bbda031-7d14-49e0-9b04-1cabbb2f47cc" />
+![image alt](https://github.com/davidherianto/superstore-dashboard/blob/8370d4c18c65e4d5baf4e22b8f37aebd5646db8e/img/superstore.png)
 
 ## F. Recommendation
 - Expand inventory capacity and intensify marketing campaigns ahead of Q4 to maximize growth opportunities.
